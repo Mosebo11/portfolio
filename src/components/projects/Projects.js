@@ -17,39 +17,33 @@ const Projects = () => {
       </div>
       <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-6 xl:gap-14">
         <ProjectsCard
-          title="SOCIAL MEDIA CLONE"
-          des=" Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-              Explicabo quibusdam voluptate sapiente voluptatibus harum quidem!"
+          title="Social Media Clone"
+          des="A responsive social media platform clone allowing users to post updates, like, comment, and interact in real time with a clean, intuitive interface."
           src={projectOne}
         />
         <ProjectsCard
           title="E-commerce Website"
-          des=" Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-              Explicabo quibusdam voluptate sapiente voluptatibus harum quidem!"
+          des="An e-commerce platform with product listings, shopping cart, checkout functionality, and payment gateway integration to simulate real online shopping."
           src={projectTwo}
         />
         <ProjectsCard
           title="Chatting App"
-          des=" Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-              Explicabo quibusdam voluptate sapiente voluptatibus harum quidem!"
+          des="A real-time chat application using Firebase for authentication and message storage, enabling seamless one-to-one and group chats."
           src={projectThree}
         />
         <ProjectsCard
-          title="SOCIAL MEDIA CLONE"
-          des=" Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-              Explicabo quibusdam voluptate sapiente voluptatibus harum quidem!"
+          title="Task Management Tool"
+          des="A Trello-inspired task management app allowing users to create boards, add tasks, drag-and-drop to manage workflow efficiently."
           src={projectThree}
         />
         <ProjectsCard
-          title="E-commerce Website"
-          des=" Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-              Explicabo quibusdam voluptate sapiente voluptatibus harum quidem!"
+          title="Portfolio Website"
+          des="A personal portfolio website showcasing projects, skills, and contact information, designed to highlight developer and design capabilities."
           src={projectOne}
         />
         <ProjectsCard
-          title="Chatting App"
-          des=" Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-              Explicabo quibusdam voluptate sapiente voluptatibus harum quidem!"
+          title="Weather Forecast App"
+          des="A weather app fetching live weather data using OpenWeather API, displaying temperature, humidity, and forecast for multiple cities."
           src={projectTwo}
         />
       </div>
