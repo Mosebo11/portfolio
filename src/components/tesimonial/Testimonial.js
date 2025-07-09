@@ -109,7 +109,7 @@ const Testimonial = () => {
                   <p className="text-xs uppercase text-designColor tracking-wide mb-2">
                     Mr Takura Bhila
                   </p>
-                  <h3 className="text-2xl font-bold">To-T.Mosebo</h3>
+                  <h3 className="text-2xl font-bold">Project Supervisor</h3>
                   <p className="text-base tracking-wide text-gray-500">
                     Lecture
                   </p>
@@ -124,7 +124,7 @@ const Testimonial = () => {
                         Limkokwing University of Creative Tecnology
                       </h3>
                       <p className="text-base text-gray-400 mt-3">
-                        via Upwork: Mar - 4 - 2022
+                        From: Mar - 4 - 2022
                       </p>
                     </div>
                     <div className="text-yellow-500 flex gap-1">
@@ -160,7 +160,7 @@ const Testimonial = () => {
                   <p className="text-xs uppercase text-designColor tracking-wide mb-2">
                     Johannes Lekheka
                   </p>
-                  <h3 className="text-2xl font-bold">T.Mosebo Employee</h3>
+                  <h3 className="text-2xl font-bold">T.Mosebo's Employer</h3>
                   <p className="text-base tracking-wide text-gray-500">
                     Iconic Footprints Association-IFA
                   </p>
@@ -208,7 +208,7 @@ const Testimonial = () => {
                   <p className="text-xs uppercase text-designColor tracking-wide mb-2">
                     Impact and Holberton Scool
                   </p>
-                  <h3 className="text-2xl font-bold">To T.Mosebo</h3>
+                  <h3 className="text-2xl font-bold">My Istruct</h3>
                   <p className="text-base tracking-wide text-gray-500">
                     Management
                   </p>
