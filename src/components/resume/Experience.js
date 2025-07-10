@@ -41,32 +41,6 @@ Mafeteng Hospital Officer"
           />
         </div>
       </div>
-      <div>
-        <div className="flex flex-col gap-4">
-          <p className="text-sm text-designColor tracking-[4px]">From Primary</p>
-          <h2 className="text-4xl font-bold">General Experience</h2>
-        </div>
-        <div className="mt-14 w-full h-[1000px] border-l-[6px] border-l-black border-opacity-30 flex flex-col gap-10">
-          <ResumeCard
-            title="Volunteer"
-            subTitle="Projects That Help The Community"
-            result="Contributting"
-            des="I'm working with a team that is developing an Sesotho Voice Recognition Speech"
-          />
-          <ResumeCard
-            title="Invigilator "
-            subTitle="Motsekuoa High School (2023 and 2024)"
-            result="Mafeteng Motsekuoa"
-            des="One of the jobs that i don't do for money, I do them for contributing and giving back to my community."
-          />
-          <ResumeCard
-            title="Farmer"
-            subTitle="Future Gold"
-            result="Sehlabeng, 'Mamaebana, Matekeleng and Motsekuoa"
-            des="I grow crops: Maize, Potatoes, Beans and Rear Animals: Piggary, Poultry and Keep Brahhman Cattle Brees, I allways belive agric is build in me."
-          />
-        </div>
-      </div>
     </motion.div>
   );
 };
