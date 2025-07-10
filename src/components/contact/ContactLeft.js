@@ -30,7 +30,7 @@ const ContactLeft = () => {
         <h2 className="text-base uppercase font-titleFont mb-4">Find me in</h2>
         <div className="flex gap-4">
           <a
-            href="https://www.facebook.com/ke.lokisa.lifon"
+            href="https://www.facebook.com/ke.lokisa.lifono?mibextid=ZbWKwL"
             target="_blank"
             rel="noopener noreferrer"
             className="bannerIcon"
