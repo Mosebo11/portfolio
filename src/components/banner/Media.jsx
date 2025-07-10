@@ -41,7 +41,7 @@ const Media = () => {
           </a>
         </div>
       </div>
-
+      <br/>
       <div>
         <h2 className="text-base uppercase font-titleFont mb-4">
           BEST SKILL ON
