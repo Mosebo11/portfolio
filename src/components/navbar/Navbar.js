@@ -72,15 +72,30 @@ const Navbar = () => {
                   Find me in
                 </h2>
                 <div className="flex gap-4">
-                  <span className="bannerIcon">
-                    <FaFacebookF />
-                  </span>
-                  <span className="bannerIcon">
-                    <FaTwitter />
-                  </span>
-                  <span className="bannerIcon">
-                    <FaLinkedinIn />
-                  </span>
+                  <a
+            href="https://www.facebook.com/ke.lokisa.lifono?mibextid=ZbWKwL"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="bannerIcon"
+          >
+            <FaFacebookF />
+          </a>
+          <a
+            href="https://wa.me/26659981177"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="bannerIcon"
+          >
+            <FaWhatsapp />
+          </a>
+          <a
+            href="https://www.linkedin.com/in/tsepe-mosebo"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="bannerIcon"
+          >
+            <FaLinkedinIn />
+          </a>
                 </div>
               </div>
               <span
